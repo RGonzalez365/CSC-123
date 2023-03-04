@@ -1,6 +1,7 @@
-//Raul E Gonzalez (rgonzalez365@toromail.csudh.edu)
-
-package CSC_Assignments;
+// Title: Assignment 02  THIS IS THE UPDATED ONE WITHOUT A PACKAGE!!!
+// Author: Raul E Gonzalez
+// E-mail: Rgonzalez365@toromail.csudh.edu
+// Date: 03/03/2023
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
@@ -74,7 +75,6 @@ public class TipCalculator {
 
 			break;
 		default:
-			// No need for a default. 
 		}
 	}
 }
