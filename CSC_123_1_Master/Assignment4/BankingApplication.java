@@ -46,10 +46,7 @@ public class BankingApplication {
                     System.out.print("Enter account number: ");
                     int accountNumber = scanner.nextInt();
                     for (Account account : accounts) {
-                        // if (account.getAccountNumber() == accountNumber) {
                         System.out.println(account.toString());
-                        // break;
-                        // }
                     }
                     break;
                 case 4:
