@@ -7,8 +7,11 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="Lab3"/>
-	<classpathentry kind="src" path="Assignment4"/>
 	<classpathentry kind="src" path="Assignment2"/>
 	<classpathentry kind="src" path="Lab7"/>
+	<classpathentry kind="src" path="Lab8"/>
+	<classpathentry kind="src" path="Lab8b"/>
+	<classpathentry kind="src" path="Assignment5"/>
+	<classpathentry kind="src" path="Assignment3"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
